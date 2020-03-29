@@ -1,0 +1,6 @@
+Cat
+Cat
+Dog
+Yes
+No
+No
